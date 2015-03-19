@@ -1,0 +1,28 @@
+{
+  "name": "Terminus",
+  "version": "1.0.0",
+  "description": "An open javascript lib to crate your own shells",
+  "main": "build/terminus.js",
+  "directories": {
+    "example": "examples",
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "tests/runner.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/casaval/Terminus.git"
+  },
+  "keywords": [
+    "cli",
+    "shell",
+    "terminal"
+  ],
+  "author": "JE",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/casaval/Terminus/issues"
+  },
+  "homepage": "https://github.com/casaval/Terminus"
+}
