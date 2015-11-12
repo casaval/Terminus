@@ -1,6 +1,6 @@
 {
-  "name": "Terminus",
-  "version": "1.0.0",
+  "name": "je-terminus",
+  "version": "1.0.1",
   "description": "An open javascript lib to crate your own shells",
   "main": "build/terminus.js",
   "directories": {
@@ -19,7 +19,7 @@
     "shell",
     "terminal"
   ],
-  "author": "JE",
+  "author": "JE (see fork)",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/casaval/Terminus/issues"
